@@ -15,3 +15,9 @@ buildscript {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext{
+    mkloader = '1.4.0'
+    shimmer = '0.5.0'
+
+}
