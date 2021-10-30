@@ -1,0 +1,56 @@
+{
+  "pekerjaan": [
+    {
+      "pekerjaan_id": "PKJ001",
+      "nama": "Dosen"
+    },
+    {
+      "pekerjaan_id": "PKJ002",
+      "nama": "Guru"
+    },
+    {
+      "pekerjaan_id": "PKJ003",
+      "nama": "Arsitek"
+    },
+    {
+      "pekerjaan_id": "PKJ004",
+      "nama": "Nelayan"
+    },
+    {
+      "pekerjaan_id": "PKJ005",
+      "nama": "Perawat"
+    },
+    {
+      "pekerjaan_id": "PKJ006",
+      "nama": "Dokter"
+    },
+    {
+     "pekerjaan_id": "PKJ007",
+      "nama": "Bidan"
+    },
+    {
+     "pekerjaan_id": "PKJ008",
+      "nama": "Pemadam Kebakaran"
+    },
+    {
+     "pekerjaan_id": "PKJ009",
+      "nama": "Kondektur"
+    },
+    {
+     "pekerjaan_id": "PKJ010",
+      "nama": "Pilot"
+    },
+    {
+     "pekerjaan_id": "PKJ011",
+      "nama": "Masinis"
+    },
+    {
+     "pekerjaan_id": "PKJ012",
+      "nama": "Wartawan"
+    },
+    {
+     "pekerjaan_id": "PKJ013",
+      "nama": "Penulis"
+    }
+  ]
+}

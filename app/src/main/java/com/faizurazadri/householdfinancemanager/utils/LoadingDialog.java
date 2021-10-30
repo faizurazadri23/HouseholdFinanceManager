@@ -2,6 +2,8 @@ package com.faizurazadri.householdfinancemanager.utils;
 
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.view.LayoutInflater;
 
 import com.faizurazadri.householdfinancemanager.R;
@@ -23,6 +25,7 @@ public class LoadingDialog {
         builder.setCancelable(true);
 
         dialog = builder.create();
+        dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
         dialog.setCancelable(false);
         dialog.show();
     }
