@@ -74,17 +74,17 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:hint="@string/txt_email"
+        android:hint="@string/txt_username"
         android:padding="10dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/title">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/input_email"
+            android:id="@+id/input_username"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="textEmailAddress" />
+            android:inputType="text" />
 
     </com.google.android.material.textfield.TextInputLayout>
 

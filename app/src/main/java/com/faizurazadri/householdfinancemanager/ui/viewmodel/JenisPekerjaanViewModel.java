@@ -1,4 +1,4 @@
-package com.faizurazadri.householdfinancemanager.ui.user;
+package com.faizurazadri.householdfinancemanager.ui.viewmodel;
 
 import androidx.lifecycle.ViewModel;
 

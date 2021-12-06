@@ -3,6 +3,7 @@ buildscript {
     repositories {
         google()
         mavenCentral()
+        maven { url 'https://jitpack.io' }
     }
     dependencies {
         classpath "com.android.tools.build:gradle:7.0.1"
@@ -12,6 +13,7 @@ buildscript {
     }
 }
 
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
@@ -19,5 +21,5 @@ task clean(type: Delete) {
 ext{
     mkloader = '1.4.0'
     shimmer = '0.5.0'
-
+    image_slide = '0.0.6'
 }

@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.faizurazadri.householdfinancemanager.data.source.repository.JenisPekerjaanRepository;
 import com.faizurazadri.householdfinancemanager.injection.InjectionJenisPekerjaan;
-import com.faizurazadri.householdfinancemanager.ui.user.JenisPekerjaanViewModel;
+import com.faizurazadri.householdfinancemanager.ui.viewmodel.JenisPekerjaanViewModel;
 
 public class ViewModelFactoryJenisPekerjaan extends ViewModelProvider.NewInstanceFactory {
 
